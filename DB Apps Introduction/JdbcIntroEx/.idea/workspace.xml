@@ -1,0 +1,209 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d9bf2544-1ff1-499f-91d5-a61c5a2ea35f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="minions_db: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="JdbcIntroEx" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YKjwOGB8xuj3947rSBtVEWVlwZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mysql-connector-java-8.0.19.jar!/" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Main" />
+      <module name="JdbcIntroEx" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@64c31ee4" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@7bfec645" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d9bf2544-1ff1-499f-91d5-a61c5a2ea35f" name="Default Changelist" comment="" />
+      <created>1582698417222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1582698417222</updated>
+      <workItem from="1582698418579" duration="43075000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="842" y="160" key="#SQL_Dialects" timestamp="1582781385111">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="842" y="160" key="#SQL_Dialects/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1582781385111" />
+    <state x="609" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1582979837094">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="609" y="92" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1582979837094" />
+    <state x="645" y="214" key="#com.intellij.ide.util.MemberChooser" timestamp="1582964989578">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="645" y="214" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1582964989578" />
+    <state x="386" y="105" key="FileChooserDialogImpl" timestamp="1582701149015">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="386" y="105" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1360.728@0.0.1360.728" timestamp="1582701149015" />
+    <state width="1637" height="335" key="GridCell.Tab.0.bottom" timestamp="1583046568725">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1360.728@0.0.1360.728" timestamp="1582701699848" />
+    <state width="1637" height="335" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1583046568725" />
+    <state width="1637" height="335" key="GridCell.Tab.0.center" timestamp="1583046568725">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1360.728@0.0.1360.728" timestamp="1582701699847" />
+    <state width="1637" height="335" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1583046568725" />
+    <state width="1637" height="335" key="GridCell.Tab.0.left" timestamp="1583046568725">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1360.728@0.0.1360.728" timestamp="1582701699847" />
+    <state width="1637" height="335" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1583046568725" />
+    <state width="1637" height="335" key="GridCell.Tab.0.right" timestamp="1583046568725">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1317" height="179" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1360.728@0.0.1360.728" timestamp="1582701699847" />
+    <state width="1637" height="335" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1583046568725" />
+    <state width="1637" height="335" key="GridCell.Tab.1.bottom" timestamp="1583046568725">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="335" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1583046568725" />
+    <state width="1637" height="335" key="GridCell.Tab.1.center" timestamp="1583046568725">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="335" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1583046568725" />
+    <state width="1637" height="335" key="GridCell.Tab.1.left" timestamp="1583046568725">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="335" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1583046568725" />
+    <state width="1637" height="335" key="GridCell.Tab.1.right" timestamp="1583046568725">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="1637" height="335" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1583046568725" />
+    <state x="160" y="0" key="SettingsEditor" timestamp="1582701154596">
+      <screen x="0" y="0" width="1360" height="728" />
+    </state>
+    <state x="160" y="0" key="SettingsEditor/-1920.0.1920.1040/0.0.1360.728@0.0.1360.728" timestamp="1582701154596" />
+    <state x="694" y="295" width="326" height="420" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1582979797548">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="694" y="295" width="326" height="420" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1582979797548" />
+    <state x="420" y="160" key="com.intellij.database.dbimport.ImportDialog" timestamp="1582977293431">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="420" y="160" key="com.intellij.database.dbimport.ImportDialog/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1582977293431" />
+    <state x="1046" y="326" width="408" height="340" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1582820001107">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="1046" y="326" width="408" height="340" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1582820001107" />
+    <state x="966" y="81" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1582781653064">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="966" y="81" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1582781653064" />
+    <state x="698" y="251" key="com.intellij.database.view.ui.DbObjectDialog" timestamp="1582979849163">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="698" y="251" key="com.intellij.database.view.ui.DbObjectDialog/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1582979849163" />
+    <state x="400" y="54" key="new project wizard" timestamp="1582698431548">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="400" y="54" key="new project wizard/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1582698431548" />
+  </component>
+</project>

@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="62a9087b-7ec2-401d-9fd3-f634384df17b" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="school: schema" type="76f4a085:MysqlImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YbYuoj0YEEQnUqYOP6Bf04Og6r" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunManager" selected="Application.JpaDemoMain">
+    <configuration name="HibernateDemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demos.hibernate.HibernateDemoMain" />
+      <module name="hibernate-intro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demos.hibernate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JpaDemoMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="demos.hibernate.JpaDemoMain" />
+      <module name="hibernate-intro" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="demos.hibernate.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.JpaDemoMain" />
+        <item itemvalue="Application.HibernateDemoMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="62a9087b-7ec2-401d-9fd3-f634384df17b" name="Default Changelist" comment="" />
+      <created>1583212985863</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583212985863</updated>
+      <workItem from="1583212987244" duration="1123000" />
+      <workItem from="1583214138071" duration="617000" />
+      <workItem from="1583818963846" duration="13477000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="864" y="163" key="#Notifications" timestamp="1583214154165">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="864" y="163" key="#Notifications/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1583214154164" />
+    <state x="817" y="166" key="#Project_Structure" timestamp="1583902988617">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="817" y="166" key="#Project_Structure/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1583902988617" />
+    <state x="864" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1584005631557">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="864" y="165" key="#com.intellij.execution.impl.EditConfigurationsDialog/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1584005631557" />
+    <state width="707" height="334" key="GridCell.Tab.0.bottom" timestamp="1584018216597">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="707" height="334" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1584018216597" />
+    <state width="707" height="334" key="GridCell.Tab.0.center" timestamp="1584018216596">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="707" height="334" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1584018216596" />
+    <state width="707" height="334" key="GridCell.Tab.0.left" timestamp="1584018216596">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="707" height="334" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1584018216596" />
+    <state width="707" height="334" key="GridCell.Tab.0.right" timestamp="1584018216596">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="707" height="334" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1584018216596" />
+    <state width="707" height="334" key="GridCell.Tab.1.bottom" timestamp="1584018216597">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="707" height="334" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1584018216597" />
+    <state width="707" height="334" key="GridCell.Tab.1.center" timestamp="1584018216597">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="707" height="334" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1584018216597" />
+    <state width="707" height="334" key="GridCell.Tab.1.left" timestamp="1584018216597">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="707" height="334" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1584018216597" />
+    <state width="707" height="334" key="GridCell.Tab.1.right" timestamp="1584018216597">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="707" height="334" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1584018216597" />
+    <state width="267" height="457" key="HiddenNamespacesPopup" timestamp="1584005723206">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state width="267" height="457" key="HiddenNamespacesPopup/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1584005723206" />
+    <state x="682" y="147" key="SettingsEditor" timestamp="1583214110936">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="682" y="147" key="SettingsEditor/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1583214110936" />
+    <state x="923" y="256" width="326" height="500" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1584005431551">
+      <screen x="0" y="0" width="1680" height="1010" />
+    </state>
+    <state x="923" y="256" width="326" height="500" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/-1920.0.1920.1040/0.0.1680.1010@0.0.1680.1010" timestamp="1584005431551" />
+  </component>
+</project>
