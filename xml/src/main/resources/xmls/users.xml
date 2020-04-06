@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<users>
+    <user>
+        <first_name>Simo</first_name>
+        <lastName>Pepov</lastName>
+        <city>Smolqn</city>
+        <phones>
+            <phone>
+                <phoneNumber>+43634534535</phoneNumber>
+            </phone>
+            <phone>
+                <phoneNumber>+97797894535</phoneNumber>
+            </phone>
+        </phones>
+    </user>
+    <user>
+        <first_name>Ivan</first_name>
+        <lastName>Kokanov</lastName>
+        <city>Varna</city>
+        <phones>
+            <phone>
+                <phoneNumber>+234232423424</phoneNumber>
+            </phone>
+            <phone>
+                <phoneNumber>+645646465465</phoneNumber>
+            </phone>
+            <phone>
+                <phoneNumber>+0890809890890</phoneNumber>
+            </phone>
+        </phones>
+    </user>
+    <user>
+        <first_name>Chocho</first_name>
+        <lastName>Ignatiev</lastName>
+        <city>Sofiq</city>
+        <phones>
+            <phone>
+                <phoneNumber>+1231132535</phoneNumber>
+            </phone>
+            <phone>
+                <phoneNumber>+645441534535</phoneNumber>
+            </phone>
+        </phones>
+    </user>
+</users>
